@@ -5,3 +5,4 @@ Hacker rank solved problems collection.
 
 2. https://www.hackerrank.com/challenges/candies/submissions/code/249835245
 3. https://www.hackerrank.com/contests/smart-interviews/challenges/si-frequency-sort/problem
+4. https://www.hackerrank.com/contests/bz-cci-53/challenges/rain-water-i
